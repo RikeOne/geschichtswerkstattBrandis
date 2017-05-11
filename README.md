@@ -8,7 +8,8 @@ Ausserdem gibt es eine Listenansicht.
 Um mit der App zu arbeiten.
 
 1. Wordpress installieren
-2. Plugins installieren
+    
+2. Plugins installieren & aktivieren
   - advanced-custom-fields-pro lizensieren!
   - Google Api Key für WP-Geo holen!
 3. Theme "Brandis" aktivieren
